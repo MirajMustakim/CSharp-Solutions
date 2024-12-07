@@ -1,0 +1,14 @@
+C:\Users\ROWTECH\source\repos\CalculatorProgram\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.exe
+C:\Users\ROWTECH\source\repos\CalculatorProgram\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.deps.json
+C:\Users\ROWTECH\source\repos\CalculatorProgram\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.runtimeconfig.json
+C:\Users\ROWTECH\source\repos\CalculatorProgram\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.dll
+C:\Users\ROWTECH\source\repos\CalculatorProgram\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.pdb
+C:\Users\ROWTECH\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROWTECH\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.AssemblyInfoInputs.cache
+C:\Users\ROWTECH\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.AssemblyInfo.cs
+C:\Users\ROWTECH\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.csproj.CoreCompileInputs.cache
+C:\Users\ROWTECH\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.dll
+C:\Users\ROWTECH\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\net8.0\refint\CalculatorProgram.dll
+C:\Users\ROWTECH\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.pdb
+C:\Users\ROWTECH\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.genruntimeconfig.cache
+C:\Users\ROWTECH\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\net8.0\ref\CalculatorProgram.dll
