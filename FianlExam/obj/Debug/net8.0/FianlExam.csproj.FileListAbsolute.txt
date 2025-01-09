@@ -1,0 +1,14 @@
+C:\Users\ROWTECH\source\repos\FianlExam\FianlExam\bin\Debug\net8.0\FianlExam.exe
+C:\Users\ROWTECH\source\repos\FianlExam\FianlExam\bin\Debug\net8.0\FianlExam.deps.json
+C:\Users\ROWTECH\source\repos\FianlExam\FianlExam\bin\Debug\net8.0\FianlExam.runtimeconfig.json
+C:\Users\ROWTECH\source\repos\FianlExam\FianlExam\bin\Debug\net8.0\FianlExam.dll
+C:\Users\ROWTECH\source\repos\FianlExam\FianlExam\bin\Debug\net8.0\FianlExam.pdb
+C:\Users\ROWTECH\source\repos\FianlExam\FianlExam\obj\Debug\net8.0\FianlExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROWTECH\source\repos\FianlExam\FianlExam\obj\Debug\net8.0\FianlExam.AssemblyInfoInputs.cache
+C:\Users\ROWTECH\source\repos\FianlExam\FianlExam\obj\Debug\net8.0\FianlExam.AssemblyInfo.cs
+C:\Users\ROWTECH\source\repos\FianlExam\FianlExam\obj\Debug\net8.0\FianlExam.csproj.CoreCompileInputs.cache
+C:\Users\ROWTECH\source\repos\FianlExam\FianlExam\obj\Debug\net8.0\FianlExam.dll
+C:\Users\ROWTECH\source\repos\FianlExam\FianlExam\obj\Debug\net8.0\refint\FianlExam.dll
+C:\Users\ROWTECH\source\repos\FianlExam\FianlExam\obj\Debug\net8.0\FianlExam.pdb
+C:\Users\ROWTECH\source\repos\FianlExam\FianlExam\obj\Debug\net8.0\FianlExam.genruntimeconfig.cache
+C:\Users\ROWTECH\source\repos\FianlExam\FianlExam\obj\Debug\net8.0\ref\FianlExam.dll
