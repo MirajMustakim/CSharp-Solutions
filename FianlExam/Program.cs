@@ -1,4 +1,10 @@
-﻿namespace FianlExam
+/* A student's end of term grade status,  it is calculated by taking 40% of the midterm exam and 60% of the final exam. Taking the midterm and final grade as a parameters and the end of term grade;
+90 and above is Successful
+if 60 and above, Pass
+If less than 60, Fail
+Write a Method that points */
+
+namespace FianlExam
 {
     internal class Program
     {
