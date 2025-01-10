@@ -2,6 +2,13 @@
 Example:
 203 occurs 20 times.
 250 occurs 16 times."
+
+200 ile 300 arasında 1000 adet rastgele sayı üretilsin.
+15'ten fazla tekrar eden sayılar kaç defa tekrar ettiği ile beraber
+ekrana yazdırılsın.
+Örnek:
+"203 sayısı 20 defa tekrar etmiştir."
+"250 sayısı 16 defa tekrar etmiştir."
 */
 
 using System;
