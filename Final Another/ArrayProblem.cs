@@ -14,9 +14,8 @@ class Program
         int[] Array2 = new int[10];
         int[] Array3 = new int[10];
 
-        Random random = new Random();
-
         // Fill Array1 and Array2 with random numbers
+        Random random = new Random();
         for (int i = 0; i < 10; i++)
         {
             Array1[i] = random.Next(0, 100); // Random number between 0 and 99
