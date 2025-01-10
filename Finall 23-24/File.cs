@@ -1,5 +1,10 @@
 ﻿/* Write the code that counts the number of words and the text length excluding spaces in the file at the 
-  path C://Dosya//islem.txt, and saves the results in the file C://Dosya//sonuc.txt." */
+  path C://Dosya//islem.txt, and saves the results in the file C://Dosya//sonuc.txt." 
+
+ "C://Dosya//islem.txt" dosya yolundaki kelime sayısını, 
+boşluklar hariç metin uzunluğunu "C://Dosya//sonuc.txt" dosyasına
+kaydeden kodu yazın.
+*/
 
 namespace Final_23_24
 {
