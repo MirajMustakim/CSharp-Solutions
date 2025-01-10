@@ -1,4 +1,6 @@
-﻿/* Write a method in C# that takes a word as an argument and prints its reverse. */
+﻿/* Write a method in C# that takes a word as an argument and prints its reverse.
+Bir kelime argüman olarak girildiğinde tersten okunuşunu yazan metotu yazınız.
+*/
 
 using System;
 
