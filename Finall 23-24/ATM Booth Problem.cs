@@ -10,6 +10,17 @@ Press 1 to withdraw money.
 Press 2 to deposit money.
 Press 3 to view the balance.
 
+para_cek(int cekilecekPara): Bu metot ile bakiyeden para çekilir ve bakiye azalır.
+para_yatir(int yatirilacakPara): Bu metot hesaba para yatırılır.
+bakiyeyi_goruntule(): Bu metot bakiyeyi görüntüler.
+cikis_yap(): Çıkış yapar.
+
+Yukarıdaki metotları kullanarak başta bakiyenin 1000 TL olduğu 
+bir atm uygulaması tasarlayınız. Kullanıcı;
+-1'e bastığı zaman çıkış yapacak,
+1'ye bastığı zaman para çekecek,
+2'ye bastığı zaman para yatırılacak,
+3'e bastığı zaman bakiye görüntülenecek.
 */
 
 using System;
